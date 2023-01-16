@@ -37,3 +37,7 @@ What is Merkle Trees?
 - version : "1.24.1"
 
 - features = ["full"]
+
+### notify
+
+- version : "5.0.0"
